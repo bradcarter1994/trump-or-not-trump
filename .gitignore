@@ -1,0 +1,5 @@
+# Python stuff
+venv/
+
+# Pycharm stuff
+.idea/
